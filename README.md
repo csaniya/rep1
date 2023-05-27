@@ -1,2 +1,2 @@
 # rep1
-created new repository
+created new repository in github
